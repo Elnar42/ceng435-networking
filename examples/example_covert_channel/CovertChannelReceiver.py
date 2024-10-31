@@ -41,5 +41,5 @@ class MyCovertTimingChannelReceiverUDP(CovertChannelBase):
 
 # Uncomment the following lines to run the Covert Channel Receiver
 
-# myCovertTimingChannelReceiverUDP = MyCovertTimingChannelReceiverUDP(10)
-# myCovertTimingChannelReceiverUDP.receive()
+myCovertTimingChannelReceiverUDP = MyCovertTimingChannelReceiverUDP(10)
+myCovertTimingChannelReceiverUDP.receive()

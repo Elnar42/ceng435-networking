@@ -25,5 +25,5 @@ class MyCovertTimingChannelSenderUDP(CovertChannelBase):
 
 # Uncomment the following lines to run the Covert Channel Sender
 
-# myCovertTimingChannelSenderUDP = MyCovertTimingChannelSenderUDP(10, 5)
-# myCovertTimingChannelSenderUDP.send()
+myCovertTimingChannelSenderUDP = MyCovertTimingChannelSenderUDP(10, 5)
+myCovertTimingChannelSenderUDP.send()
